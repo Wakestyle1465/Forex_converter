@@ -31,7 +31,7 @@ request.args(user)
 - How do you collect data from the query string using Flask?
 request.args()
 - How do you collect data from the body of the request using Flask?
-request.args('body')
+request.form()
 
 - What is a cookie and what kinds of things are they commonly used for?
 A cookie is saved data in a session or length of time. It can be used for banners or maybe a shopping cart.
