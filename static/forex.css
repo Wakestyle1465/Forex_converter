@@ -1,0 +1,11 @@
+
+.but:hover{
+    background-color: lightblue;
+    color: black;
+    
+}
+
+#but{
+    position: relative;
+    top:10px
+}
